@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+
+# Related question: https://stackoverflow.com/questions/54453192/is-it-possible-to-add-attributes-to-built-in-python-objects-dynamically-in-pytho#54453612
+
 import ast
 import os
 from ast_transformer import AnalyserNodeTransformer
